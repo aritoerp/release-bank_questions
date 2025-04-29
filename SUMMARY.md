@@ -12,3 +12,4 @@
 * [Làm thế nào để xuất 1 Hóa đơn vừa có hàng hóa và dịch vụ?](67b4042f6d3349dfcbc8c30e/67f6333633fa03cc175d4c71/67f6333633fa03cc175d4c71.md)
 * [Làm thế nào để hạch toán phí chuyển tiền của ngân hàng?](67b4042f6d3349dfcbc8c30e/67d4ea497a60c9abb809b9e6/67d4ea497a60c9abb809b9e6.md)
 * [Hướng dẫn tính giá thành vụ việc](67b4042f6d3349dfcbc8c30e/67fcd2afc45566f013b273ce/67fcd2afc45566f013b273ce.md)
+* [Tôi không nhìn thấy phân hệ TSCĐ, Giá thành, Hợp đồng, Ngân sách?](67b4042f6d3349dfcbc8c30e/6807408da326e8bcf28ea140/6807408da326e8bcf28ea140.md)
