@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kiểm tra số dư đầu kỳ này không khớp số cuối kỳ trước chuyển sang](67b4042f6d3349dfcbc8c30e/67aebf63ad99c1fb7bd28e77/67aebf63ad99c1fb7bd28e77.md)
+* [Kiểm tra số dư đầu kỳ này không khớp số cuối kỳ trước chuyển sang](README.md)
 * [Hướng dẫn nhập NVL thừa khi tính giá thành](67b4042f6d3349dfcbc8c30e/67aec125ad99c1fb7bd28f5b/67aec125ad99c1fb7bd28f5b.md)
 * [Làm thế nào khi lập chứng từ mua hàng, bán hàng, chương trình tự ngầm định được Tài khoản công nợ theo từng Khách hàng, Nhà cung cấp?](67b4042f6d3349dfcbc8c30e/67bbee2e972d720418749658/67bbee2e972d720418749658.md)
 * [Làm thế nào để theo dõi công nợ theo đối tượng cho tài khoản khác 138,338...?](67b4042f6d3349dfcbc8c30e/67bbee36972d72041874968a/67bbee36972d72041874968a.md)
@@ -12,4 +12,4 @@
 * [Làm thế nào để xuất 1 Hóa đơn vừa có hàng hóa và dịch vụ?](67b4042f6d3349dfcbc8c30e/67f6333633fa03cc175d4c71/67f6333633fa03cc175d4c71.md)
 * [Làm thế nào để hạch toán phí chuyển tiền của ngân hàng?](67b4042f6d3349dfcbc8c30e/67d4ea497a60c9abb809b9e6/67d4ea497a60c9abb809b9e6.md)
 * [Hướng dẫn tính giá thành vụ việc](67b4042f6d3349dfcbc8c30e/67fcd2afc45566f013b273ce/67fcd2afc45566f013b273ce.md)
-* [Tôi không nhìn thấy phân hệ TSCĐ, Giá thành, Hợp đồng, Ngân sách?](67b4042f6d3349dfcbc8c30e/6807408da326e8bcf28ea140/6807408da326e8bcf28ea140.md)
+* [Tôi không nhìn thấy phân hệ TSCĐ, Giá thành, Hợp đồng, Ngân sách?](toi-khong-nhin-thay-phan-he-tscd-gia-thanh-hop-dong-ngan-sach.md)
