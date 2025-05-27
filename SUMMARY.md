@@ -30,4 +30,4 @@
 * [Làm thế nào khi nhập tồn kho đầu kỳ nhưng xem bảng cân đối số dư của tài khoản kho không hiển thị?](67b4042f6d3349dfcbc8c30e/68351ccebe88d808c5f39eca/68351ccebe88d808c5f39eca.md)
 * [Làm thế nào để thiết lập lại công thức trên Báo cáo tài chính?](67b4042f6d3349dfcbc8c30e/681ad24549ac85862c4b03e9/681ad24549ac85862c4b03e9.md)
 * [Làm thế nào khi tổng doanh thu bán ra lệch với sổ cái TK 511?](67b4042f6d3349dfcbc8c30e/6835813c746e62f23d932120/6835813c746e62f23d932120.md)
-* [Hướng dẫn tính giá thành cho đơn vị nhận gia công](67b4042f6d3349dfcbc8c30e/67b3f8a06d3349dfcbc8c023/67b3f8a06d3349dfcbc8c023.md)
+* [Hướng dẫn tính giá thành cho đơn vị nhận gia công, đơn vị cung ứng dịch vụ](67b4042f6d3349dfcbc8c30e/67b3f8a06d3349dfcbc8c023/67b3f8a06d3349dfcbc8c023.md)
