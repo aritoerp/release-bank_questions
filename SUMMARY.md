@@ -49,5 +49,5 @@
 * [Bán hàng](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/README.md)
 * [Kho](67b4042f6d3349dfcbc8c30e/68cbace792c4dffc8d9e7fd0/README.md)
 * [Tài sản/ Công cụ](67b4042f6d3349dfcbc8c30e/68cbacea92c4dffc8d9e7fee/README.md)
-* [New folder](67b4042f6d3349dfcbc8c30e/68cbaced92c4dffc8d9e800c/README.md)
+* [Giá thành](67b4042f6d3349dfcbc8c30e/68cbaced92c4dffc8d9e800c/README.md)
 * [New folder](67b4042f6d3349dfcbc8c30e/68cbacf092c4dffc8d9e802a/README.md)
