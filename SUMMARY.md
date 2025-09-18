@@ -46,7 +46,7 @@
 * [Tiền mặt](67b4042f6d3349dfcbc8c30e/68cbacbe92c4dffc8d9e7f3e/README.md)
 * [Quỹ](67b4042f6d3349dfcbc8c30e/68cbacd192c4dffc8d9e7f69/README.md)
 * [Mua hàng](67b4042f6d3349dfcbc8c30e/68cbacde92c4dffc8d9e7f8f/README.md)
-* [New folder](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/README.md)
+* [Bán hàng](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/README.md)
 * [New folder](67b4042f6d3349dfcbc8c30e/68cbace792c4dffc8d9e7fd0/README.md)
 * [New folder](67b4042f6d3349dfcbc8c30e/68cbacea92c4dffc8d9e7fee/README.md)
 * [New folder](67b4042f6d3349dfcbc8c30e/68cbaced92c4dffc8d9e800c/README.md)
