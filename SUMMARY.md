@@ -44,3 +44,4 @@
 * [Làm thế nào khi số dư TK112 trên bảng Cân đối tài khoản không khớp với số tồn trên sổ tiền gửi ngân hàng? ](67b4042f6d3349dfcbc8c30e/6829bb622972a4ff55c2bbe2/6829bb622972a4ff55c2bbe2.md)
 * [Làm thế nào khi tính giá xuất kho không lên đơn giá vốn?](67b4042f6d3349dfcbc8c30e/67c663e4fbea0ccbe2e730f5/67c663e4fbea0ccbe2e730f5.md)
 * [Tiền mặt](67b4042f6d3349dfcbc8c30e/68cbacbe92c4dffc8d9e7f3e/README.md)
+* [Quỹ](67b4042f6d3349dfcbc8c30e/68cbacd192c4dffc8d9e7f69/README.md)
