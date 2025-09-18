@@ -51,3 +51,4 @@
 * [Tài sản/ Công cụ](67b4042f6d3349dfcbc8c30e/68cbacea92c4dffc8d9e7fee/README.md)
 * [Giá thành](67b4042f6d3349dfcbc8c30e/68cbaced92c4dffc8d9e800c/README.md)
 * [Tổng hợp](67b4042f6d3349dfcbc8c30e/68cbacf092c4dffc8d9e802a/README.md)
+* [Hệ thống](67b4042f6d3349dfcbc8c30e/68cbad2f92c4dffc8d9e8089/README.md)
