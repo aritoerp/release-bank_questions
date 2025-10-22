@@ -1,5 +1,9 @@
 # Table of contents
 
+* [Cách xuất Hóa đơn gộp nhiều chứng từ bán hàng  ](67b4042f6d3349dfcbc8c30e/67eb6f2d24843682bbb3a36e/67eb6f2d24843682bbb3a36e.md)
+* [Cập nhật thông tin Công ty trên mẫu in](67b4042f6d3349dfcbc8c30e/67aaef4dae0858d9c764d1a4/67aaef4dae0858d9c764d1a4.md)
+* [Làm thế nào khi đồng bộ hóa đơn đầu vào từ Cơ quan thuế về phần mềm không đủ?](67b4042f6d3349dfcbc8c30e/68640e2053a4d19485a2c2de/68640e2053a4d19485a2c2de.md)
+* [Hóa đơn](67b4042f6d3349dfcbc8c30e/68f890c96db723e0d55dfc5c/README.md)
 * [Tiền mặt](67b4042f6d3349dfcbc8c30e/68cbacbe92c4dffc8d9e7f3e/README.md)
   * [Tôi muốn theo dõi thêm Thủ quỹ thì làm thế nào?](67b4042f6d3349dfcbc8c30e/68cbacbe92c4dffc8d9e7f3e/67f62e75ec0a7b10851a6c5f/67f62e75ec0a7b10851a6c5f.md)
 * [Ngân hàng](67b4042f6d3349dfcbc8c30e/68cbacd192c4dffc8d9e7f69/README.md)
