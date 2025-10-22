@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Cách xuất Hóa đơn gộp nhiều chứng từ bán hàng  ](67b4042f6d3349dfcbc8c30e/67eb6f2d24843682bbb3a36e/67eb6f2d24843682bbb3a36e.md)
-* [Cập nhật thông tin Công ty trên mẫu in](67b4042f6d3349dfcbc8c30e/67aaef4dae0858d9c764d1a4/67aaef4dae0858d9c764d1a4.md)
-* [Làm thế nào khi đồng bộ hóa đơn đầu vào từ Cơ quan thuế về phần mềm không đủ?](67b4042f6d3349dfcbc8c30e/68640e2053a4d19485a2c2de/68640e2053a4d19485a2c2de.md)
+* [Thuế](67b4042f6d3349dfcbc8c30e/68f896446db723e0d55dff69/README.md)
 * [Hóa đơn](67b4042f6d3349dfcbc8c30e/68f890c96db723e0d55dfc5c/README.md)
+  * [Làm thế nào khi đồng bộ hóa đơn đầu vào từ Cơ quan thuế về phần mềm không đủ?](67b4042f6d3349dfcbc8c30e/68f890c96db723e0d55dfc5c/68640e2053a4d19485a2c2de/68640e2053a4d19485a2c2de.md)
 * [Tiền mặt](67b4042f6d3349dfcbc8c30e/68cbacbe92c4dffc8d9e7f3e/README.md)
   * [Tôi muốn theo dõi thêm Thủ quỹ thì làm thế nào?](67b4042f6d3349dfcbc8c30e/68cbacbe92c4dffc8d9e7f3e/67f62e75ec0a7b10851a6c5f/67f62e75ec0a7b10851a6c5f.md)
 * [Ngân hàng](67b4042f6d3349dfcbc8c30e/68cbacd192c4dffc8d9e7f69/README.md)
@@ -29,6 +28,7 @@
   * [Làm thế nào khi lập chứng từ mua hàng, bán hàng, chương trình tự ngầm định được Tài khoản công nợ theo từng Khách hàng, Nhà cung cấp?](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/67bbee2e972d720418749658/67bbee2e972d720418749658.md)
   * [Tôi muốn cuối ngày xuất hóa đơn tổng cho nhiều phiếu bán hàng của khách lẻ thì làm thế nào? ](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/6829c3772972a4ff55c2bf72/6829c3772972a4ff55c2bf72.md)
   * [Hóa đơn đã phát hành nhưng trạng thái trên phần mềm vẫn là Chưa phát hành thì làm thế nào? -](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/6829e1832972a4ff55c2c0ab/6829e1832972a4ff55c2c0ab.md)
+  * [Cách xuất Hóa đơn gộp nhiều chứng từ bán hàng  ](67b4042f6d3349dfcbc8c30e/68cbace492c4dffc8d9e7fad/67eb6f2d24843682bbb3a36e/67eb6f2d24843682bbb3a36e.md)
 * [Kho](67b4042f6d3349dfcbc8c30e/68cbace792c4dffc8d9e7fd0/README.md)
   * [Làm thế nào khi tính giá xuất kho không lên đơn giá vốn?](67b4042f6d3349dfcbc8c30e/68cbace792c4dffc8d9e7fd0/67c663e4fbea0ccbe2e730f5/67c663e4fbea0ccbe2e730f5.md)
   * [Tôi muốn quản lý nhập, xuất tồn kho hàng khuyến mại thì làm thế nào?](67b4042f6d3349dfcbc8c30e/68cbace792c4dffc8d9e7fd0/682177a6533a64a10bf83c9e/682177a6533a64a10bf83c9e.md)
@@ -59,3 +59,4 @@
   * [Cách cập nhật Mật khẩu trang Tổng cục thuế](67b4042f6d3349dfcbc8c30e/68cbad2f92c4dffc8d9e8089/67aad9a69006082da59e77c7/67aad9a69006082da59e77c7.md)
   * [Làm thế nào khi đồng bộ hóa đơn đầu vào từ Cơ quan thuế về phần mềm không đủ?](67b4042f6d3349dfcbc8c30e/68cbad2f92c4dffc8d9e8089/6829c1132972a4ff55c2bec2/6829c1132972a4ff55c2bec2.md)
   * [Làm thế nào để xóa hàng hoạt danh mục khách hàng, nhà cung cấp, vật tư hàng hóa?](67b4042f6d3349dfcbc8c30e/68cbad2f92c4dffc8d9e8089/67c66612fbea0ccbe2e731a9/67c66612fbea0ccbe2e731a9.md)
+  * [Cập nhật thông tin Công ty trên mẫu in](67b4042f6d3349dfcbc8c30e/68cbad2f92c4dffc8d9e8089/67aaef4dae0858d9c764d1a4/67aaef4dae0858d9c764d1a4.md)
